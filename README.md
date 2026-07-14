@@ -46,18 +46,6 @@ Aspiring Software Engineer | Java Developer
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-2433&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu-2433&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Connect With Me
 
 Email: **deepanshugurjar9701@gmail.com**
