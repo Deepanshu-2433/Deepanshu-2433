@@ -48,10 +48,10 @@ Aspiring Software Engineer | Java Developer
 ## Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/deepanshu-gurjar-13dev" target="_blank">
+<a href="https://www.linkedin.com/in/deepanshu-gurjar-13dev">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="25"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:deepanshugurjar9701@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25" height="25"/>
 </a>
