@@ -48,8 +48,15 @@ Aspiring Software Engineer | Java Developer
 
 ## Connect With Me
 
-Email: **deepanshugurjar9701@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/deepanshu-gurjar-13dev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Gurjar-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
+<a href="mailto:deepanshugurjar9701@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-deepanshugurjar9701%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 ---
 
 Thanks for visiting my profile.
