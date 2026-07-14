@@ -5,7 +5,7 @@ Aspiring Software Engineer | Java Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Software+Engineer;Java+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Things" />
+<img <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Java+Developer;Software+Engineering+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
