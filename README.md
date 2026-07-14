@@ -50,11 +50,11 @@ Aspiring Software Engineer | Java Developer
 
 <p align="left">
 <a href="https://www.linkedin.com/in/deepanshu-gurjar-13dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Gurjar-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
 <a href="mailto:deepanshugurjar9701@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-deepanshugurjar9701%40gmail.com-red?style=for-the-badge&logo=gmail" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
 </a>
 </p>
 ---
